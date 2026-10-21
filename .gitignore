@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------------------
+# Unreal Engine generated
+# ---------------------------------------------------------------------------
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/*.zip
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.user
+*.userprefs
+
+# Build artifacts
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# UE module metadata
+*.modules
+*.target
+
+# Local machine scripts (hardcoded absolute paths)
+build.cmd
+run.cmd
+
+# ---------------------------------------------------------------------------
+# OS / editor noise
+# ---------------------------------------------------------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+# Build system caches
+Build/Windows/FileOpenOrder/
+
